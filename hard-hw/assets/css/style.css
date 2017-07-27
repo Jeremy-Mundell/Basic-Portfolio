@@ -72,18 +72,6 @@ h2 {
 
 }
 
-/*#box1 {
-	background-color: white;
-    float: left;
-    height: 600px;
-	width: 500px;
-	padding: 20px;
-	position: absolute;
-	top: 200px;
-	left: 100px;
-	text-align: left;
-   
-}*/
 
 
 
@@ -136,7 +124,12 @@ p 	{
 
 }
 
+#submit { 
+	float:left;
+	clear: all;
 
+	
+}
 
 h6 {
 	background: grey;
