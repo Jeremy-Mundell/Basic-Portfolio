@@ -207,6 +207,7 @@ figcaption {
 
 }
 
+<<<<<<< HEAD
 figure img {
 	width: 230px;
 	height: 150px;
@@ -216,7 +217,14 @@ figure img {
 
 
 
+=======
+#submit { 
+	float:left;
+	clear: all;
+>>>>>>> 026bd084b3c66740c86b39027f25effaf601370f
 
+	
+}
 
 h6 {
 	background: grey;
