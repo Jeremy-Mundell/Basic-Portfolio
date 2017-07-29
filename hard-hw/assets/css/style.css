@@ -182,18 +182,20 @@ p 	{
 
 	width: 500px;
 	margin: 0;
+	z-index: -1;
 }
 
 
 .pics {
 	
-	width: 252px;
-	margin: 10px;
-	height: 200px;
+	width: 30%;
+	margin: 10%;
+	/*height: 200px;*/
 	float: left;
-
-	top: 315px;
-	left: 232px;
+	position: relative;
+	right: 25%;
+	left: 57%;
+	bottom: 17%
 
 }
 
