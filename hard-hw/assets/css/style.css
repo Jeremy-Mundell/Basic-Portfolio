@@ -19,6 +19,7 @@ header {
 
 }
 
+
 #name	{
 	
 	margin-top: -44px;
@@ -36,6 +37,7 @@ header {
 	
 }
 
+
 #navigation {
 
 	color: grey;
@@ -49,6 +51,7 @@ header {
 
 
 }
+
 
 #nav { 
 	color: #4aaaa5;
@@ -68,6 +71,7 @@ a {
 	color: grey;
 }
 
+
 hr { border-width: 2px;
 	border-top-color: grey;
 }
@@ -81,6 +85,7 @@ hr { border-width: 2px;
 	margin: 10px;
 
 }
+
 
 h1 {
 	color: #4aaaa5;	
@@ -186,7 +191,7 @@ p 	{
 	margin: 10px;
 	height: 200px;
 	float: left;
-	position: absolute;
+
 	top: 315px;
 	left: 232px;
 
@@ -223,6 +228,7 @@ figure img {
 	
 }
 
+
 h6 {
 	background: grey;
 	font-family: georgia, times, serif;
@@ -237,6 +243,7 @@ h6 {
 	border-top: solid;
 	border-top-width: 7px;
 }
+
 
 form {
 	background-color: white;
