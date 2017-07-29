@@ -31,7 +31,7 @@ header {
   	position: absolute;
   	top: 40px;
   	height: 80px;
-  	font-family: georgia, times, serif;
+  	font-family: serif
 
 	
 }
@@ -85,7 +85,7 @@ hr { border-width: 2px;
 h1 {
 	color: #4aaaa5;	
 	padding: 10px;
-
+	font-family: arial;
 }
 
 
@@ -173,14 +173,22 @@ p 	{
 
 }
 
+#box {
 
+	width: 500px;
+	margin: 0;
+}
 
 
 .pics {
-	width: 200px;
+	
+	width: 252px;
 	margin: 10px;
 	height: 200px;
 	float: left;
+	position: absolute;
+	top: 315px;
+	left: 232px;
 
 }
 
